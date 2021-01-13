@@ -1,4 +1,4 @@
-module github.com/vulcand/oxy
+module github.com/marcelo-ochoa/oxy
 
 go 1.13
 
@@ -14,6 +14,7 @@ require (
 	github.com/mailgun/ttlmap v0.0.0-20170619185759-c1c17f74874f
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.5.1
+	github.com/vulcand/oxy v1.1.0
 	github.com/vulcand/predicate v1.1.0
 	golang.org/x/net v0.0.0-20190724013045-ca1201d0de80
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
